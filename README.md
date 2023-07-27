@@ -3,3 +3,6 @@
 
 Halusin alusta alkaen tehdä sellaiset visuaalit jotka näyttää hyvälle, varsinkin viranomais valot/vilkut. Myöskään en halunnut että yö olisi liian pimeä, enkä sitä että päiväkään olisi liian kirkas. Tällöin ajattelin
 itse tehdä ja ruveta tutkimaan visuaalien tekoa josta tämä ns projecti on lähtenyt. Visuaalin nimenä toimii WestCoast visuaali siitä syystä, koska pidän kyseisestä serveristä ja toivon että jos haluat käyttää visuaalia niin suosittelen testamaan tätä. Palautetta voi antaa kommenteissa jos haluat jotain muutoksia. 
+# Olenko tehnyt kaiken itse?
+
+En ole, visuaalit on rakennettu jo valmiiseen pohjaan jota olen muokkaillut ja tehnyt muutoksia oman maun mukaan. En muista mikä oli ns alkuperäinen tiedosto. 
